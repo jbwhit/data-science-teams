@@ -1,7 +1,8 @@
-# data-science-teams
-Miscellaneous Jupyter Notebooks for my course.
+# [Jupyter Notebook for Data Science Teams](http://shop.oreilly.com/product/0636920044260.do)
 
-Also see the repos for two of the projects: 
+Jupyter Notebooks and repositories for my O'Reilly course (released March 2016): [Jupyter Notebook for Data Science Teams](http://shop.oreilly.com/product/0636920044260.do).
+
+Also see the repos for two of the projects featured in the course: 
 
 ## Project 1: 
 
